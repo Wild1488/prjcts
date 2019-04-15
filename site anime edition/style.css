@@ -1,0 +1,75 @@
+#header {
+    background: url(topbg.png);
+    height: 900px;
+    width: 1600px;
+    margin: auto;
+}
+#about{
+
+    background: url(aboutbg.png);
+    height: 780px;
+    width: 1600px;
+    margin: auto;
+
+}
+body{
+
+    background: rgb(43, 43, 43);
+
+}
+.logo{
+
+    padding-left: 215px;
+    padding-top: 50px;
+
+}
+#menu{
+    padding-top: 200px;
+    margin:auto;
+
+}
+.txtmenu{
+    padding-left: 215px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 85;
+    color: white;
+    font-weight: 400;
+    line-height: 0.1;
+}
+.txtmenu1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28;
+    color: white;
+    font-weight: 600;
+    line-height: 0.1;
+}
+.insmenu{
+/*как образать вонючие подчеркивания?*/
+    width: 70%;
+
+}
+.txtabout{
+
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    color: black;
+    font-weight: 400;
+    size: 24;
+    
+
+}
+#work{
+
+    background: white;
+    height: 1900;
+    width: 1600;
+    margin: auto;
+}
+.txtwork{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40;
+    color: black;
+    font-weight: 700;
+    line-height: 0.1;
+    margin-top: 0;
+}
